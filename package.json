@@ -1,0 +1,23 @@
+{
+  "name": "flashcard3",
+  "version": "1.0.0",
+  "description": "Flashcard",
+  "main": "BasicCard.js",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahking27/Flashcard-Generator3.git"
+  },
+  "author": "Noah King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noahking27/Flashcard-Generator3/issues"
+  },
+  "homepage": "https://github.com/noahking27/Flashcard-Generator3#readme"
+}
